@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins0', sans-serif;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #3e0879, #764ba2 , #667eea);
+}
+.card{
+    background: linear-gradient( #667eea , #764ba2 , #3e0879    );
+    width: 350px;   
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+}
